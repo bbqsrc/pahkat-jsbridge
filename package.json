@@ -2,16 +2,13 @@
   "name": "pahkat-jsbridge",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0 OR MIT",
   "devDependencies": {
     "typescript": "^3.5.3"
-  },
-  "dependencies": {
-    "rxjs": "^6.5.2"
   }
 }
