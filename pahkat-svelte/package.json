@@ -9,7 +9,7 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-svelte": "^5.1.1",
     "rollup-plugin-terser": "^4.0.4",
-    "svelte": "^3.14.1"
+    "svelte": "^3.49.0"
   },
   "dependencies": {
     "pahkat-jsbridge": "file:../pahkat-jsbridge",
